@@ -16,6 +16,7 @@ The automation is built linearly across 5 distinct execution stages, maximizing 
                                                                         │
 [Stage 5: Termination]   <──  [Stage 4: Post-Processing] <──────────────┘
 
-## SAP PO Creation UiPath workflow diagram
+## SAP PO Creation UiPath workflow 
+```
 
 [PO Creation Diagram](/artifacts/PO%20Creation%20Workflow%20Diagram.png)
