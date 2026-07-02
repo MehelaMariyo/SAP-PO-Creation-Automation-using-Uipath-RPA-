@@ -60,4 +60,6 @@ The automation is built linearly across 5 distinct execution stages, maximizing 
     - `Read Status Bar` (Direct extraction of system messages)
     - `Excel Process Scope` / `For Each Excel Row` / `Write Cell`/ `Click`/ `Use Application Browser`
 
-    
+## Snap Shot of Developing stage in UiPath
+
+![Snap Shot](/artifacts/Snap%20Shot.png)
